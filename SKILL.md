@@ -2,7 +2,7 @@
 name: posthog
 description: >-
   PostHog analytics via MCP - dashboards, insights, feature flags, experiments, surveys, and error tracking.
-  Use when checking PrivaSpeech analytics, viewing dashboards, managing feature flags,
+  Use when checking analytics, viewing dashboards, managing feature flags,
   or investigating error tracking data.
 metadata: {"openclaw":{"emoji":"🦔","requires":{"bins":["mcporter"]}}}
 ---
